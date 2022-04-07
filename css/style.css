@@ -103,7 +103,7 @@ body {
 }
 
 img {
-  border: radius 8px;
+  border-radius: 10px;
   width: 100%;
 }
 
@@ -128,7 +128,7 @@ img {
   background-color: var(--clr-white);
   /* text-align: center; */
   padding: 1.0909em 1.0909em 2.6666em 1.0909em;
-  border-radius: 8px;
+  border-radius: 20px;
   max-width: 21.3333em;
   /* box-shadow: 0px 1.6666em 1.6666em var(--box-shadow); */
   box-shadow: 0px 25px 50px var(--box-shadow);
