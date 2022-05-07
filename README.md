@@ -13,10 +13,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Overview
 
 ### The challenge
 
@@ -27,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-Mobile-view](images/screenshot-qr-code-component.png)
+![Desktop-Mobile-view](./images/screenshot-qr-code-component.png)
 
 ### Links
 
