@@ -23,7 +23,7 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### Screenshot
 
-![Desktop-Mobile-view](./screenshot/screenshot-qr-code-component.png)
+![preview of QR code component challenge](./design/desktop-preview.jpg)
 
 ### Links
 
