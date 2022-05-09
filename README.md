@@ -61,4 +61,4 @@ Over the next few challenges I plan to:
 
 ## Acknowledgments
 
-Thanks to [@grace-snow](https://www.frontendmentor.io/profile/grace-snow), [@ApplePieGiraffe](https://www.frontendmentor.io/profile/ApplePieGiraffe), and [@brasspetals](https://www.frontendmentor.io/profile/brasspetals). I benefitted greatly from reviewing their code as well as reading their comments to other developers on Frontend Mentor.
+Thanks to [@grace-snow](https://www.frontendmentor.io/profile/grace-snow), [@ApplePieGiraffe](https://www.frontendmentor.io/profile/ApplePieGiraffe), and [@brasspetals](https://www.frontendmentor.io/profile/brasspetals). I benefitted greatly from reading their comments to other developers on Frontend Mentor as well as reviewing their code.
