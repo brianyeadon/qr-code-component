@@ -1,5 +1,5 @@
 /*** ROOT ***/
-/* Variables */
+/* CSS Custom Properties */
 :root {
   --clr-white: hsl(0, 0%, 100%);
   --clr-light-gray: hsl(212, 45%, 89%);
@@ -39,6 +39,7 @@ body {
   text-align: center;
   padding: 1rem;
   min-height: 100vh;
+  /* Position card in the center of the screen for demonstration purposes */
   display: flex;
   flex-direction: column;
   justify-content: center;
