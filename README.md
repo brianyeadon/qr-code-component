@@ -23,12 +23,12 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### Screenshot
 
-![Desktop-Mobile-view](./screenshot/screenshot-qr-code-component.png)
+!preview of QR code component challenge](./design/desktop-preview.jpg)
 
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-BkGA4Zn7c](https://www.frontendmentor.io/solutions/qr-code-component-BkGA4Zn7c)
-  Live Site URL: [https://brianyeadon.github.io/qr-code-component/](https://brianyeadon.github.io/qr-code-component/)
+- Live Site URL: [https://brianyeadon.github.io/qr-code-component/](https://brianyeadon.github.io/qr-code-component/)
 
 ## My process
 
