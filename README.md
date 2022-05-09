@@ -55,10 +55,10 @@ Over the next few challenges I plan to:
 - expand the use of css properties when appropriate
 - continue to get my solution to match the design as close as possible
 
-## Acknowledgments
-
-Thanks to [@grace-snow](https://www.frontendmentor.io/profile/grace-snow), [@ApplePieGiraffe](https://www.frontendmentor.io/profile/ApplePieGiraffe), and [@brasspetals](https://www.frontendmentor.io/profile/brasspetals). I benefited greatly from reading their comments to other developers on Frontend Mentor as well as reviewing their code.
-
 ## Author
 
 - Frontend Mentor - [@brianyeadon](https://www.frontendmentor.io/profile/brianyeadon)
+
+## Acknowledgments
+
+Thanks to [@grace-snow](https://www.frontendmentor.io/profile/grace-snow), [@ApplePieGiraffe](https://www.frontendmentor.io/profile/ApplePieGiraffe), and [@brasspetals](https://www.frontendmentor.io/profile/brasspetals). I benefited greatly from reading their comments to other developers on Frontend Mentor as well as reviewing their code.
